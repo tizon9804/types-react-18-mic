@@ -1,10 +1,14 @@
 {
-  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "name": "@types/react-18-mic",
   "version": "18.0.0",
   "projects": [
     "https://github.com/tizon9804/react-18-mic"
   ],
+  "repository": "https://github.com/tizon9804/types-react-18-mic",
+  "types": "index.d.ts",
   "dependencies": {
     "@types/react": "*"
   },
